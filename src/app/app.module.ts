@@ -27,6 +27,7 @@ import { NopagefoundComponent } from './nopagefound/nopagefound.component';
     NopagefoundComponent,
 
 
+
   ],
   imports: [
     BrowserModule,
